@@ -24,18 +24,18 @@ diagon-alley/
 
 ### Installation
 
-1. **Clone the repository**
+1. Clone the repository
    ```bash
    git clone https://github.com/JuditHalperin/diagon-alley.git
    cd diagon-alley
    ```
 
-2. **Install dependencies**
+2. Install dependencies
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Configure database connection**
+3. Configure database connection
    
    Update the `PASSWORD` and `IP_ADDRESS` in both `main.py` and `api.py`:
    ```python
